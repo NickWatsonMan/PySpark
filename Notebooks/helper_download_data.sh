@@ -2,7 +2,7 @@
 set -e
 
 TAXI_TYPE="yellow"
-YEAR=2020
+YEAR=2021
 
 URL_PREFIX="https://github.com/DataTalksClub/nyc-tlc-data/releases/download"
 
