@@ -23,6 +23,7 @@
 # Data #
 *.csv
 *.parquet
+*.snappy.parquet.crc
 
 # OS generated files #
 ######################
