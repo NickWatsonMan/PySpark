@@ -10,6 +10,7 @@ Run .sh file to download datasets:
 
 ### 2. Notebooks 
 * [Notebook to test the installation](Notebooks/InstallationTest.ipynb)   
+* [PySpark DataFrames and SQL](Notebooks/SparkSQLandDataFrames.ipynb)
 
 ### 3. References
 * [Original Course](https://github.com/DataTalksClub/data-engineering-zoomcamp)
